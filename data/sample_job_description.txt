@@ -1,0 +1,27 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to join our data science team. The ideal
+candidate will design, build, and deploy production ML models at scale.
+
+Required Qualifications:
+- 3+ years of experience building and deploying machine learning models in production
+- Strong proficiency in Python and ML frameworks such as PyTorch or TensorFlow
+- Experience with cloud platforms (AWS, GCP, or Azure) for model deployment
+- Solid understanding of data structures, algorithms, and software engineering best practices
+- Experience with SQL and working with large-scale datasets
+- Familiarity with MLOps tools (Docker, Kubernetes, CI/CD pipelines)
+- Bachelor's degree in Computer Science, Data Science, or related field
+
+Preferred Qualifications:
+- Experience with natural language processing (NLP) or large language models (LLMs)
+- Experience with distributed computing frameworks (Spark, Ray)
+- Prior experience mentoring junior engineers
+- Contributions to open-source ML projects
+- Master's degree or PhD in a quantitative field
+
+Responsibilities:
+- Design and implement scalable machine learning pipelines from research to production
+- Collaborate with data scientists to productionize models
+- Monitor model performance and retrain as needed
+- Write clean, well-tested, maintainable code
+- Participate in code reviews and technical design discussions
