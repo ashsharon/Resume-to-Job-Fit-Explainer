@@ -1,0 +1,29 @@
+Jordan Alvarez
+jordan.alvarez@email.com | (555) 123-4567 | linkedin.com/in/jordanalvarez
+
+SUMMARY
+Data analyst with 2 years of experience building dashboards and predictive models.
+Passionate about turning data into actionable insights.
+
+EXPERIENCE
+
+Data Analyst | BrightMetrics Inc. | Jun 2023 - Present
+- Built weekly reporting dashboards in Tableau for the marketing team
+- Wrote SQL queries to extract and clean customer data from a Postgres database
+- Built a basic logistic regression model in scikit-learn to predict customer churn
+- Automated a manual reporting process using Python scripts, saving ~5 hours/week
+
+Data Analyst Intern | RetailWorks Co. | Jan 2023 - May 2023
+- Assisted senior analysts with A/B test analysis for the e-commerce site
+- Created visualizations in Excel and Power BI for stakeholder presentations
+- Cleaned and validated survey data using pandas
+
+EDUCATION
+B.S. in Statistics, State University, 2023
+
+SKILLS
+Python, SQL, pandas, scikit-learn, Tableau, Power BI, Excel, Git
+
+PROJECTS
+- Personal project: Built a simple movie recommendation system using collaborative
+  filtering in Python for a class assignment
